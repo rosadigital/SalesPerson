@@ -1,0 +1,15 @@
+/Users/feliperosa/Downloads/01_college/02_term_programming_c#/A_Lab_08/SalespersonDemo/SalespersonDemo/obj/Debug/net6.0/SalespersonDemo.csproj.AssemblyReference.cache
+/Users/feliperosa/Downloads/01_college/02_term_programming_c#/A_Lab_08/SalespersonDemo/SalespersonDemo/obj/Debug/net6.0/SalespersonDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/feliperosa/Downloads/01_college/02_term_programming_c#/A_Lab_08/SalespersonDemo/SalespersonDemo/obj/Debug/net6.0/SalespersonDemo.AssemblyInfoInputs.cache
+/Users/feliperosa/Downloads/01_college/02_term_programming_c#/A_Lab_08/SalespersonDemo/SalespersonDemo/obj/Debug/net6.0/SalespersonDemo.AssemblyInfo.cs
+/Users/feliperosa/Downloads/01_college/02_term_programming_c#/A_Lab_08/SalespersonDemo/SalespersonDemo/obj/Debug/net6.0/SalespersonDemo.csproj.CoreCompileInputs.cache
+/Users/feliperosa/Downloads/01_college/02_term_programming_c#/A_Lab_08/SalespersonDemo/SalespersonDemo/bin/Debug/net6.0/SalespersonDemo
+/Users/feliperosa/Downloads/01_college/02_term_programming_c#/A_Lab_08/SalespersonDemo/SalespersonDemo/bin/Debug/net6.0/SalespersonDemo.deps.json
+/Users/feliperosa/Downloads/01_college/02_term_programming_c#/A_Lab_08/SalespersonDemo/SalespersonDemo/bin/Debug/net6.0/SalespersonDemo.runtimeconfig.json
+/Users/feliperosa/Downloads/01_college/02_term_programming_c#/A_Lab_08/SalespersonDemo/SalespersonDemo/bin/Debug/net6.0/SalespersonDemo.dll
+/Users/feliperosa/Downloads/01_college/02_term_programming_c#/A_Lab_08/SalespersonDemo/SalespersonDemo/bin/Debug/net6.0/SalespersonDemo.pdb
+/Users/feliperosa/Downloads/01_college/02_term_programming_c#/A_Lab_08/SalespersonDemo/SalespersonDemo/obj/Debug/net6.0/SalespersonDemo.dll
+/Users/feliperosa/Downloads/01_college/02_term_programming_c#/A_Lab_08/SalespersonDemo/SalespersonDemo/obj/Debug/net6.0/refint/SalespersonDemo.dll
+/Users/feliperosa/Downloads/01_college/02_term_programming_c#/A_Lab_08/SalespersonDemo/SalespersonDemo/obj/Debug/net6.0/SalespersonDemo.pdb
+/Users/feliperosa/Downloads/01_college/02_term_programming_c#/A_Lab_08/SalespersonDemo/SalespersonDemo/obj/Debug/net6.0/SalespersonDemo.genruntimeconfig.cache
+/Users/feliperosa/Downloads/01_college/02_term_programming_c#/A_Lab_08/SalespersonDemo/SalespersonDemo/obj/Debug/net6.0/ref/SalespersonDemo.dll
